@@ -33,7 +33,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: anyaporwal18@gmail.com  
 - [LeetCode](https://leetcode.com/your-username)  
 - [GitHub](https://github.com/your-username)
 
