@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Anya Porwal!
+# 👋 Hey there, I'm Anya Porwal!
 
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science and Engineering with Data Science Specialization
@@ -32,10 +32,11 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/anyaporwal)  
 - 📧 Email: anyaporwal18@gmail.com  
-- [LeetCode](https://leetcode.com/your-username)  
-- [GitHub](https://github.com/your-username)
+- [LeetCode](https://leetcode.com/u/Anyanp/)  
+- [GitHub](https://github.com/Anyaporwal)  
+- [CodeChef](https://www.codechef.com/users/anyaporwal18)
 
 ---
 
