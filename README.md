@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there, I'm Anya Porwal!
 
-<!--
-**Anyaporwal/Anyaporwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech in Computer Science and Engineering with Data Science Specialization
+- 💻 Passionate about Data Structures & Full Stack Development
+- 🌱 Currently learning advance DSA in Java & MERN Stack by building real-world projects
+- ⚡ Always exploring new technologies to solve real-life problems
 
-Here are some ideas to get you started:
+## 💼 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+|--------|-------------|
+| 🌦️ **Weather App** | A web app that fetches and displays weather information using OpenWeatherMap API |
+| 🔳 **QR Code Generator** | Generate and download QR codes for custom text or URLs using `qrcode` package in React |
+| 💱 **Currency Converter** | A simple tool to convert between currencies using real-time exchange rates |
+| ❌⭕ **Tic Tac Toe Game** | A fun, interactive browser-based Tic Tac Toe game built with JavaScript |
+
+> 👉 Check out my repositories for source code and live demos!
+
+## 🧰 Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square&logo=api)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📧 Email: your.email@example.com  
+- [LeetCode](https://leetcode.com/your-username)  
+- [GitHub](https://github.com/your-username)
+
+---
+
+⭐️ _Star this repo to follow my development journey!_
+
+---
+
+> _"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine_
+
+✨ Keep coding, keep growing!
+
+
+---
