@@ -46,6 +46,4 @@
 
 > _"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine_
 
-✨ From code to impact—one step at a time.
-
 ---
