@@ -26,11 +26,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square&logo=api)
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
 
-## 📫 Connect with Me
+##🌐 Online Presence & Coding Profiles
+
 
 - [LinkedIn](https://www.linkedin.com/in/anyaporwal)  
 - 📧 Email: anyaporwal18@gmail.com  
