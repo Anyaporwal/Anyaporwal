@@ -31,7 +31,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
 
-##🌐 Online Presence & Coding Profiles
+## 🌐 Online Presence & Coding Profiles
 
 
 - [LinkedIn](https://www.linkedin.com/in/anyaporwal)  
