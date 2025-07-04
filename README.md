@@ -33,12 +33,11 @@
 
 ## 🌐 Online Presence & Coding Profiles
 
-
-- [LinkedIn](https://www.linkedin.com/in/anyaporwal)  
 - 📧 Email: anyaporwal18@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/anyaporwal)  
 - [LeetCode](https://leetcode.com/u/Anyanp/)  
-- [GitHub](https://github.com/Anyaporwal)  
 - [CodeChef](https://www.codechef.com/users/anyaporwal18)
+- [HackerRank](https://www.hackerrank.com/profile/porwalaa)  
 
 ---
 
