@@ -40,6 +40,10 @@
 - [HackerRank](https://www.hackerrank.com/profile/porwalaa)  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Anyaporwal&color=green)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anyaporwal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 > _"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine_
 
