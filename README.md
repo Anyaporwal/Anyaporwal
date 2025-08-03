@@ -34,8 +34,9 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anyaporwal&layout=compact&theme=radical)
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anyaporwal&show_icons=true&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=Anyaporwal&color=brightgreen)
+<br>
 
 ## 🌐 Online Presence & Coding Profiles
 
