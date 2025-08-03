@@ -31,6 +31,14 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anyaporwal&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anyaporwal&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anyaporwal&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anyaporwal&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://komarev.com/ghpvc/?username=Anyaporwal&color=brightgreen)
+
 ## 🌐 Online Presence & Coding Profiles
 
 - 📧 Email: anyaporwal18@gmail.com  
