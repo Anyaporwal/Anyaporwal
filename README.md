@@ -31,13 +31,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea)
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anyaporwal&layout=compact&theme=radical)
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anyaporwal&show_icons=true&theme=radical)
-<br>
-
 ## 🌐 Online Presence & Coding Profiles
 
 - 📧 Email: anyaporwal18@gmail.com  
