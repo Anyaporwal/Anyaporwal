@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Anya Porwal!
+# Hey there, I'm Anya Porwal!
 
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science and Engineering with Data Science Specialization
