@@ -6,17 +6,6 @@
 - 🌱 Currently learning advance DSA in Java & MERN Stack by building real-world projects
 - ⚡ Always exploring new technologies to solve real-life problems
 
-## 💼 My Projects
-
-| Project | Description |
-|--------|-------------|
-| 🌦️ **Weather App** | A web app that fetches and displays weather information using OpenWeatherMap API |
-| 🔳 **QR Code Generator** | Generate and download QR codes for custom text or URLs using `qrcode` package in React |
-| 💱 **Currency Converter** | A simple tool to convert between currencies using real-time exchange rates |
-| ❌⭕ **Tic Tac Toe Game** | A fun, interactive browser-based Tic Tac Toe game built with JavaScript |
-
-> 👉 Check out my repositories for source code and live demos!
-
 ## 🧰 Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
