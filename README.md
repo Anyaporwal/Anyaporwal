@@ -25,9 +25,9 @@
 
 - 📧 Email: anyaporwal18@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/anyaporwal)  
-- [LeetCode](https://leetcode.com/u/Anyanp/)  
-- [CodeChef](https://www.codechef.com/users/anyaporwal18)
-- [HackerRank](https://www.hackerrank.com/profile/porwalaa)  
+- [Codolio](https://codolio.com/profile/Anyaporwal)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anyaporwal&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
