@@ -27,8 +27,9 @@
 - [LinkedIn](https://www.linkedin.com/in/anyaporwal)  
 - [Codolio](https://codolio.com/profile/Anyaporwal)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anyaporwal&label=Profile%20Views&color=0e75b6&style=flat)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anyaporwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 ---
 
 > _"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine_
