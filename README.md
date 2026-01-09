@@ -1,8 +1,17 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.vercel.app?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Anya+Porwal;Frontend+Development+•+Data+Structures+%26+Algorithms"
+    src="https://readme-typing-svg.vercel.app?font=Inter&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Anya+Porwal;Frontend+Development+•+Data+Structures+%26+Algorithms"
     alt="Typing SVG"
   />
+</p>
+
+<p align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+<b>Hi, I'm Anya Porwal</b>  
+Frontend Development • Data Structures & Algorithms  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </p>
 
 <p align="center">
