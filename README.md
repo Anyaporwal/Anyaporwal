@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anya Porwal</h1>
-<h3 align="center">B.Tech CSE (Data Science) | DSA • Full Stack • Problem Solver</h3>
+<h1 align="center">Anya Porwal</h1>
+<p align="center">
+DSA • Frontend Development
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anyaporwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
