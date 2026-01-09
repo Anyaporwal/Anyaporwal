@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.vercel.app?font=Inter&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anya+Porwal;Data+Structures+%26+Algorithms+•+Frontend+Development"
+    src="https://readme-typing-svg.vercel.app?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Anya+Porwal;Frontend+Development+•+Data+Structures+%26+Algorithms"
     alt="Typing SVG"
   />
 </p>
