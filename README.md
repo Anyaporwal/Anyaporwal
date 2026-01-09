@@ -5,10 +5,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anyaporwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -36,7 +32,6 @@
   <img src="https://img.shields.io/badge/REST%20APIs-black?style=flat-square&logo=api"/>
 </p>
 
-### 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode"/>
@@ -64,6 +59,12 @@
   <a href="https://codolio.com/profile/Anyaporwal">
     <img src="https://img.shields.io/badge/Codolio-Competitive%20Profile-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anyaporwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
