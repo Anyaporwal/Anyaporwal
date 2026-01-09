@@ -1,6 +1,8 @@
-<h1 align="center">Anya Porwal</h1>
 <p align="center">
-DSA • Frontend Development
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anya+Porwal;DSA+•+Frontend+Development" 
+    alt="Typing SVG" 
+  />
 </p>
 
 
