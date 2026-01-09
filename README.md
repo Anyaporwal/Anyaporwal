@@ -1,10 +1,9 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anya+Porwal;DSA+•+Frontend+Development" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.vercel.app?font=Inter&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anya+Porwal;Data+Structures+%26+Algorithms+•+Frontend+Development"
+    alt="Typing SVG"
   />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anyaporwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
