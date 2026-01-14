@@ -1,9 +1,22 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.vercel.app?font=Inter&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Anya+Porwal;Frontend+Development+•+Data+Structures+%26+Algorithms"
-    alt="Typing SVG"
-  />
+  <svg width="720" height="60">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#2c5530">
+          <animate attributeName="stop-color" values="#2c5530;#3e8e41;#2c5530" dur="4s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#b2dfb2">
+          <animate attributeName="stop-color" values="#b2dfb2;#3e8e41;#b2dfb2" dur="4s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="720" height="60" fill="url(#grad)" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="23" font-family="Inter" fill="white">
+      Hi, I'm Anya Porwal; Frontend Development • Data Structures & Algorithms
+    </text>
+  </svg>
 </p>
+
 
 ---
 
