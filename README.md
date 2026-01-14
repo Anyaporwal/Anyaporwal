@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_readme.mp4" alt="Intro" />
+  <img src="github_intro.gif" alt="Intro" />
 </p>
 
 ---
