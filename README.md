@@ -30,10 +30,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/Canva-black?style=flat-square&logo=canva"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lucidchart-F96B13?style=flat-square&logo=lucidchart&logoColor=white"/>
 </p>
 
