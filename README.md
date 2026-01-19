@@ -9,7 +9,7 @@
 🎓 **B.Tech in Computer Science & Engineering (Data Science)**  
 💻 Passionate about **Data Structures & Full Stack Development**  
 🌱 Currently learning **Advanced DSA in Java** & **MERN Stack** by building **real-world projects**  
-⚡ Constantly exploring **new technologies** to solve **real-life problems**
+⚡ Constantly exploring **new technologies** to solve **real-world problems**
 
 ---
 
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea"/>
   <img src="https://img.shields.io/badge/Canva-black?style=flat-square&logo=canva"/>
+  <img src="https://img.shields.io/badge/Lucidchart-F96B13?style=flat-square&logo=lucidchart&logoColor=white"/>
 </p>
 
 ---
