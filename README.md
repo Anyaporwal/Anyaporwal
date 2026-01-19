@@ -16,7 +16,7 @@
 ## 🧰 Tech Stack & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5"/>
